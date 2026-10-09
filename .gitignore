@@ -1,0 +1,21 @@
+# Dépendances
+node_modules/
+
+# Fichiers générés par les builds
+dist/
+build/
+coverage/
+
+# Variables d'environnement
+.env
+.env.local
+.env.*.local
+
+# Journaux
+*.log
+npm-debug.log*
+
+# Éditeur et système
+.vscode/
+.DS_Store
+Thumbs.db
