@@ -22,9 +22,12 @@ L'historique détaillé est conservé dans [`JOURNAL.md`](./JOURNAL.md).
 
 ```
 react-exercices/
+react-exercices/
 ├── README.md
 ├── JOURNAL.md
-└── .gitignore
+├── .gitignore
+├── node-notes/
+└── cours-react-1/
 ```
 
 Le schéma sera complété au fil des cours.
@@ -34,6 +37,10 @@ Le schéma sera complété au fil des cours.
 - Noms de fichiers et dossiers **en minuscules, sans espaces**
 - Un dossier par partie de cours, un sous-dossier par projet
 - `node_modules/` jamais versionné (voir `.gitignore`)
+
+## Remarque sur le projet du cours
+
+Le projet `cours-react-1` utilise l'API REST Countries (v3.1), aujourd'hui dépréciée : la liste des pays ne s'affiche donc plus. Le code est conservé tel que fourni dans le cours, uniquement pour suivre la même logique que le formateur.
 
 ## Suivi
 
