@@ -22,12 +22,12 @@ L'historique détaillé est conservé dans [`JOURNAL.md`](./JOURNAL.md).
 
 ```
 react-exercices/
-react-exercices/
 ├── README.md
 ├── JOURNAL.md
 ├── .gitignore
 ├── node-notes/
-└── cours-react-1/
+├── cours-react-1/
+└── cours-react-2/
 ```
 
 Le schéma sera complété au fil des cours.
